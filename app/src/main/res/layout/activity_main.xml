@@ -98,7 +98,7 @@
         android:layout_below="@+id/play"
         android:layout_marginTop="54dp"
         android:background="@drawable/circle"
-        android:text="HighScores"
+        android:text="SCOREBOARD"
         android:textColor="#ffffff"
         android:textSize="20dp"
         android:visibility="invisible" />
